@@ -1,5 +1,6 @@
 [
   {
+    "id": "167b1875-8a07-49dc-9519-e274a52f0c2d",
     "name": "Jordan Essentials",
     "description": "Men Fleece Pullover Hoodie 5 Colours",
     "price": 60,
@@ -8,6 +9,7 @@
     "category": "Hoodies & Sweatshirts"
   },
   {
+    "id": "d1e435e2-7e62-4c6a-ba3b-ff9a330d279f",
     "name": "Nike Sportswear Club",
     "description": "Basketball Backpack (32L) 3 Colours",
     "price": 85,
@@ -16,6 +18,7 @@
     "category": "Accessories"
   },
   {
+    "id": "4020a7ff-1ebf-4cef-8a19-e30e8224e8d1",
     "name": "Nike",
     "description": "Dri-FIT Miler 3 Colours",
     "price": 85,
@@ -24,6 +27,7 @@
     "category": "T-Shirts"
   },
   {
+    "id": "ab822243-bc34-4e47-8ba1-d2e3252142b5",
     "name": "Nike Elite Pro",
     "description": "Basketball Backpack (32L) 3 Colours",
     "price": 85,
@@ -32,6 +36,7 @@
     "category": "Accessories"
   },
   {
+    "id": "e56d5192-63ef-4ab4-bb69-dd42cd055d77",
     "name": "Jordan Essentials Statement",
     "description": "Basketball Backpack (32L) 3 Colours",
     "price": 85,
@@ -40,6 +45,7 @@
     "category": "Accessories"
   },
   {
+    "id": "84866ddf-5e85-4a42-9819-0a4c286b72ac",
     "name": "Jordan Essentials",
     "description": "Men’s Woven Jacket (32L) 3 Colours",
     "price": 85,
@@ -48,6 +54,7 @@
     "category": "Jackets"
   },
   {
+    "id": "313eabcf-51f5-477a-a04c-453d4d682e93",
     "name": "Jordan Essentials",
     "description": "Men Fleece Pullover 6 Colours",
     "price": 60,
@@ -56,6 +63,7 @@
     "category": "Hoodies & Sweatshirts"
   },
   {
+    "id": "aed148b3-f135-499d-8666-6c9f1a878b82",
     "name": "Nike Therma",
     "description": "Men’s Pullover Training Hoodie",
     "price": 34,
@@ -64,6 +72,7 @@
     "category": "Hoodies & Sweatshirts"
   },
   {
+    "id": "66c7df3f-5946-4475-b194-fef28a235e9a",
     "name": "Nike Heritage",
     "description": "Basketball Backpack (32L) 4 Colours",
     "price": 41,
@@ -72,6 +81,7 @@
     "category": "Accessories"
   },
   {
+    "id": "df569ce4-4c46-4d38-a2b6-34002ffc1632",
     "name": "Nike",
     "description": "Zoom Vomero 5 trainers in grey",
     "price": 60,
@@ -80,6 +90,7 @@
     "category": "Shoes"
   },
   {
+    "id": "6040daf0-730f-4302-9117-8863783fbb10,
     "name": "Nike",
     "description": "Huarache",
     "price": 60,
