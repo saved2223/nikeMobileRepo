@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Jordan Essentials",
+    "description": "Men Fleece Pullover Hoodie 5 Colours",
+    "price": 60,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/36960_210553_53776-removebg-preview%201.png?raw=true",
+    "tag": "Bestseller",
+    "category": "Hoodies & Sweatshirts"
+  },
+  {
+    "name": "Nike Sportswear Club",
+    "description": "Basketball Backpack (32L) 3 Colours",
+    "price": 85,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/Screen%20Shot%202022-06-30%20at%205.54%201.png?raw=true",
+    "tag": "Bestseller",
+    "category": "Accessories"
+  },
+  {
+    "name": "Nike",
+    "description": "Dri-FIT Miler 3 Colours",
+    "price": 85,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/Screen%20Shot%202022-06-30%20at%205.55%201.png?raw=true",
+    "tag": "Bestseller",
+    "category": "T-Shirts"
+  },
+  {
+    "name": "Nike Elite Pro",
+    "description": "Basketball Backpack (32L) 3 Colours",
+    "price": 85,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/image%2022.png?raw=true",
+    "tag": "Soldout",
+    "category": "Accessories"
+  },
+  {
+    "name": "Jordan Essentials Statement",
+    "description": "Basketball Backpack (32L) 3 Colours",
+    "price": 85,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/jordan-essentials-mens-fleece-pullover-hoodie-jG54lf-removebg-preview%201.png?raw=true",
+    "tag": "Must-have",
+    "category": "Accessories"
+  },
+  {
+    "name": "Jordan Essentials",
+    "description": "Men’s Woven Jacket (32L) 3 Colours",
+    "price": 85,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/sportswear-club-fleece-joggers-KflRdQ-removebg-preview%201.png?raw=true",
+    "tag": "Must-have",
+    "category": "Jackets"
+  },
+  {
+    "name": "Jordan Essentials",
+    "description": "Men Fleece Pullover 6 Colours",
+    "price": 60,
+    "items_left": 5,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/sportswear-tech-fleece-mens-crew-sweatshirt-pfjm2W-removebg-preview%201.png?raw=true",
+    "tag": "Must-have",
+    "category": "Hoodies & Sweatshirts"
+  },
+  {
+    "name": "Nike Therma",
+    "description": "Men’s Pullover Training Hoodie",
+    "price": 33.97,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/therma-mens-pullover-training-hoodie-zTst4l_prev_ui%201.png?raw=true",
+    "tag": "Bestseller",
+    "category": "Hoodies & Sweatshirts"
+  },
+  {
+    "name": "Nike Heritage",
+    "description": "Basketball Backpack (32L) 4 Colours",
+    "price": 40.97,
+    "items_left": 0,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/f457ddf9be1ffa0408c0592692d6f208e803295e/resources/Screen%20Shot%202022-06-30%20at%203.05%201.png?raw=true",
+    "tag": "Soldout",
+    "category": "Accessories"
+  },
+  {
+    "name": "Nike",
+    "description": "Zoom Vomero 5 trainers in grey",
+    "price": 60,
+    "items_left": 5,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/f457ddf9be1ffa0408c0592692d6f208e803295e/resources/image%2026.png?raw=true",
+    "tag": "Must-have",
+    "category": "Shoes"
+  },
+  {
+    "name": "Nike",
+    "description": "Huarache",
+    "price": 60,
+    "image_url": "https://github.com/pbukhon/VSU_lectures/blob/f457ddf9be1ffa0408c0592692d6f208e803295e/resources/image%2027.png?raw=true",
+    "tag": "Bestseller",
+    "category": "Shoes"
+  }
+]
