@@ -58,7 +58,7 @@
   {
     "name": "Nike Therma",
     "description": "Men’s Pullover Training Hoodie",
-    "price": 33.97,
+    "price": 34,
     "image_url": "https://github.com/pbukhon/VSU_lectures/blob/16186c290d9a7489a4e1e6ada3bb80151537a549/resources/therma-mens-pullover-training-hoodie-zTst4l_prev_ui%201.png?raw=true",
     "tag": "Bestseller",
     "category": "Hoodies & Sweatshirts"
@@ -66,7 +66,7 @@
   {
     "name": "Nike Heritage",
     "description": "Basketball Backpack (32L) 4 Colours",
-    "price": 40.97,
+    "price": 41,
     "image_url": "https://github.com/pbukhon/VSU_lectures/blob/f457ddf9be1ffa0408c0592692d6f208e803295e/resources/Screen%20Shot%202022-06-30%20at%203.05%201.png?raw=true",
     "tag": "Soldout",
     "category": "Accessories"
